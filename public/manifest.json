@@ -1,0 +1,9 @@
+{
+  "short_name": "Trello風アプリ",
+  "name": "Trello風アプリを作成",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
